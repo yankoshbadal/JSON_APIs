@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "poem_hindi": "ऐ ख़ुदा, ऐ कायनात के कारीगर,\nतू ये बता, ये क्या किया ख़ुदा होकर。\n\nज़िंदा है अब तलक बस एक-दूसरे को देखकर,\nमर जाता, वरना आसमाँ ज़मीं से जुदा होकर。",
+      "poem_hindi": "ऐ ख़ुदा, ऐ कायनात के कारीगर,\nतू ये बता, ये क्या किया ख़ुदा होकर।\n\nज़िंदा है अब तलक बस एक-दूसरे को देखकर,\nमर जाता, वरना आसमाँ ज़मीं से जुदा होकर।",
       "poem_urdu": "اے خدا، اے کائنات کے کاریگر،\nتو یہ بتا، یہ کیا کیا خدا ہو کر۔\n\nزندہ ہے اب تلک بس ایک دوسرے کو دیکھ کر،\nمر جاتا، ورنہ آسماں زمیں سے جدا ہو کر۔",
       "poem_english": "Ae khuda, ae kaynat ke karigar,\nTu ye bata, ye kya kiya khuda hokar.\n\nZinda hai ab talak bas ek-doosre ko dekhkar,\nMar jata, warna aasman zameen se juda hokar.",
       "author": "Yankosh Badal",
@@ -19,7 +19,7 @@
     },
     {
       "id": 3,
-      "poem_hindi": "फ़िक्र थी बादल को चाँद की, ना सोया रात भर,\nपूरे शहर में बरसात हुई, यूँ रोया रात भर। ",
+      "poem_hindi": "फ़िक्र थी बादल को चाँद की, न सोया रात भर,\nपूरे शहर में बरसात हुई, यूँ रोया रात भर।",
       "poem_urdu": "فکر تھی بادل کو چاند کی، نہ سویا رات بھر،\nپورے شہر میں برسات ہوئی، یوں رویا رات بھر۔",
       "poem_english": "Fikr thi baadal ko chaand ki, na soya raat bhar,\nPoore shahar mein barsaat hui, yun roya raat bhar.",
       "author": "Yankosh Badal",
@@ -42,125 +42,38 @@
       "date": "26FEB2026"
     },
     {
-  "id": 6,
-  "poem_hindi": "ना मिली वो, ना मिला उसका कोई नामो-निशाँ,\nजब उसके शहर में आज आके देखा।\n\nमैंने सिखाया था उसको लोगों को छोड़ देने का हुनर,\nकमबख़्त उसने ये हुनर मुझपे आज़मा के देखा।",
-  "poem_urdu": "نہ ملی وہ، نہ ملا اس کا کوئی نام و نشان،\nجب اس کے شہر میں آج آکے دیکھا۔\n\nمیں نے سکھایا تھا اس کو لوگوں کو چھوڑ دینے کا ہنر،\nکم بخت اُس نے یہ ہنر مجھ پہ آزما کے دیکھا۔",
-  "poem_english": "Na mili wo, na mila uska koi namo-nishan,\nJab uske shahar mein aaj aake dekha.\n\nMaine sikhaya tha usko logon ko chhod dene ka hunar,\nKambakht usne ye hunar mujhpe aazma ke dekha.",
-  "author": "Yankosh Badal",
-  "date": "26FEB2026"
-},
-  {
-  "id": 7,
-  "poem_hindi": "ऐ ख़ुदा, ऐ कायनात के कारीगर,\nतू ये बता, ये क्या किया ख़ुदा होकर।\n\nज़िंदा है अब तलक बस एक-दूसरे को देखकर,\nमर जाता, वरना आसमाँ ज़मीं से जुदा होकर।",
-  "poem_urdu": "اے خدا، اے کائنات کے کاریگر،\nتو یہ بتا، یہ کیا کیا خدا ہو کر۔\n\nزندہ ہے اب تلک بس ایک دوسرے کو دیکھ کر،\nمر جاتا، ورنہ آسماں زمیں سے جدا ہو کر۔",
-  "poem_english": "Ae khuda, ae kaynat ke karigar,\nTu ye bata, ye kya kiya khuda hokar.\n\nZinda hai ab talak bas ek-doosre ko dekhkar,\nMar jata, warna aasman zameen se juda hokar.",
-  "author": "Yankosh Badal",
-  "date": "26FEB2026"
-},
-    {
-  "id": 8,
-  "poem_hindi": "गिरे थे जो मेरे आँसू तेरे दामन में,\nउसे मैं अपनी आँखों में भर के लाया हूँ।\nफिर लौट आया हूँ, तेरे घर चला आया हूँ।\n\nमिली थीं कलियाँ मेरे रास्ते में,\n\"ना आएगी बहार इस बार\" बता आया हूँ।\n\nबनाए थे जो फूल तूने पेंसिल से मेरी डायरी में,\nउस फूल को मैं आज मिटा आया हूँ।\n\nफिर लौट आया हूँ, तेरे घर चला आया हूँ।\n\nबहुत अँधेरा था मेरे मोहल्ले में,\nसो अपना घर जला आया हूँ।\n\nमत भेज वापस मुझे मेरे शहर में,\nमैं वहाँ अब बस एक मुसाफ़िर पराया हूँ।",
-  "poem_urdu": "گرے تھے جو میرے آنسو تیرے دامن میں،\nاسے میں اپنی آنکھوں میں بھر کے لایا ہوں۔\nپھر لوٹ آیا ہوں، تیرے گھر چلا آیا ہوں۔\n\nملی تھیں کلیاں میرے راستے میں،\n\"نہ آئے گی بہار اس بار\" بتا آیا ہوں۔\n\nبنائے تھے جو پھول تُو نے پنسل سے میری ڈائری میں،\nاس پھول کو میں آج مٹا آیا ہوں۔\n\nپھر لوٹ آیا ہوں، تیرے گھر چلا آیا ہوں۔\n\nبہت اندھیرا تھا میرے محلے میں،\nسو اپنا گھر جلا آیا ہوں۔\n\nمت بھیج واپس مجھے میرے شہر میں،\nمیں وہاں اب بس ایک مسافر پرایا ہوں۔",
-  "poem_english": "Gire the jo mere aansu tere daaman mein,\nUse main apni aankhon mein bhar ke laya hoon.\nPhir laut aaya hoon, tere ghar chala aaya hoon.\n\nMili thin kaliyan mere raste mein,\n\"Na aayegi bahar is baar\" bata aaya hoon.\n\nBanaye the jo phool tune pencil se meri diary mein,\nUs phool ko main aaj mita aaya hoon.\n\nPhir laut aaya hoon, tere ghar chala aaya hoon.\n\nBahut andhera tha mere mohalle mein,\nSo apna ghar jala aaya hoon.\n\nMat bhej wapas mujhe mere shahar mein,\nMain wahan ab bas ek musafir paraya hoon.",
-  "author": "Yankosh Badal",
-  "date": "26FEB2026"
-},
-    {
-  "id": 9,
-  "poem_hindi": "सूख गए हैं चमन के सारे फूल,\nछू कर गए थे जो तुम, बस वो गुलाब बाकी है।\n\nतमाम रूह घायल हो चुकी इस सफ़र में तुम्हारे बिना,\nअब तो बस जिस्म का हिसाब बाकी है।\n\nचढ़ाए हैं, उतारे हैं ज़िंदगी में हज़ारों मुखौटे,\nउतारना हँसी का ये नक़ाब बाकी है।\n\nबचा के रखा है अपने मैखाने में शराब,\nअभी तो ग़मों का सैलाब बाकी है।",
-  "poem_urdu": "سُکھ گئے ہیں چمن کے سارے پھول،\nچھو کر گئے تھے جو تم، بس وہ گلاب باقی ہے۔\n\nتمام روح زخمی ہو چکی اس سفر میں تمہارے بغیر،\nاب تو بس جسم کا حساب باقی ہے۔\n\nچڑھائے ہیں، اتارے ہیں زندگی میں ہزاروں مخوّٹے،\nاتارنا ہنسی کا یہ نقاب باقی ہے۔\n\nبچا کے رکھا ہے اپنے مے خانے میں شراب،\nابھی تو غموں کا سیلاب باقی ہے۔",
-  "poem_english": "Sookh gaye hain chaman ke saare phool,\nChhoo kar gaye the jo tum, bas wo gulab baaki hai.\n\nTamaam rooh ghaayal ho chuki is safar mein tumhare bina,\nAb to bas jism ka hisaab baaki hai.\n\nChadhaye hain, utaare hain zindagi mein hazaaron makhote,\nUtaarna hansi ka ye naqaab baaki hai.\n\nBacha ke rakha hai apne maikhane mein sharaab,\nAbhi to ghamon ka sailaab baaki hai.",
-  "author": "Yankosh Badal",
-  "date": "26FEB2026"
-},
-    {
-  "id": 10,
-  "poem_hindi": "जब अँधेरा जगत में छा जाएगा,\nजब प्रलय विकट आ जाएगा।\n\nतब चारों ओर होगा त्राहि-त्राहि,\nसूख जाएँगे सागर तमाम।\n\nलेकर अपना विराट पग,\nकाल चलेगा डगमग डगमग।\n\nटूट जाएगा पहाड़ विशाल,\nजब निकट खड़ा होगा काल।\n\nचाँद छुप जाएगा डर के मारे,\nमिट जाएँगे तारे सारे।\n\nजल जाएगा संसार तुरंत,\nकुछ इस तरह होगा जगत का अंत।",
-  "poem_urdu": "جب اندھیرا جگت میں چھا جائے گا،\nجب پرلَے وِکٹ آ جائے گا۔\n\nتب چاروں اور ہوگا تراہی-تراہی،\nسُکھ جائیں گے ساگر تمام۔\n\nلے کر اپنا ویرات پگ،\nکال چلے گا ڈگمگ ڈگمگ۔\n\nٹوٹ جائے گا پہاڑ وِشال،\nجب نزدیک کھڑا ہوگا کال۔\n\nچاند چھپ جائے گا ڈر کے مارے،\nمٹ جائیں گے تارے سارے۔\n\nجل جائے گا سنسار فوری،\nکچھ اس طرح ہوگا جگت کا انت۔",
-  "poem_english": "Jab andhera jagat mein chha jaayega,\nJab pralay vikat aa jaayega.\n\nTab charon or hoga traahi-traahi,\nSookh jaayenge saagar tamaam.\n\nLekar apna viraat pag,\nKaal chalega dagmag dagmag.\n\nToot jaayega pahaad vishal,\nJab nikat khada hoga kaal.\n\nChaand chhup jaayega dar ke maare,\nMit jaayenge taare saare.\n\nJal jaayega sansaar turant,\nKuch is tarah hoga jagat ka ant.",
-  "author": "Yankosh Badal",
-  "date": "26FEB2026"
-},
-    {
-  "id": 11,
-  "poem_hindi": "तुम जो ना जागती हो, ना सोती हो,\nयूँ जो रातों को रोती हो,\nयूँ आँसुओं को कोई बरबाद नहीं करता।\nतुम भी भूल जाओ मुझे,\nमैं तुम्हें अब याद नहीं करता।\n\nतुम इन यादों से खुद को कहीं दूर ले जाओ,\nजैसे पिंजरे से पंछी को कोई आज़ाद नहीं करता?\nतुम भी भूल जाओ मुझे,\nमैं तुम्हें अब याद नहीं करता।\n\nबिन तेरे पहले पल-पल था मरता,\nअब न देखूँ तुम्हें तो मैं ख़ुदा से फ़रियाद नहीं करता।\nतुम भी भूल जाओ मुझे,\nमैं तुम्हें अब याद नहीं करता।\n\nये दिल मेरा मुझसे रोते हुए बातें किया करता,\nजब से भूल गया हूँ तुम्हें मैं,\nउसके बाद नहीं करता।\nतुम भी भूल जाओ मुझे,\nमैं तुम्हें अब याद नहीं करता।",
-  "poem_urdu": "تم جو نہ جاگتی ہو، نہ سوتی ہو،\nیوں جو راتوں کو روتی ہو،\nیوں آنسوں کو کوئی برباد نہیں کرتا۔\nتم بھی بھول جاؤ مجھے،\nمیں تمہیں اب یاد نہیں کرتا۔\n\nتم ان یادوں سے خود کو کہیں دور لے جاؤ،\nجیسے پنجرے سے پرندے کو کوئی آزاد نہیں کرتا؟\nتم بھی بھول جاؤ مجھے،\nمیں تمہیں اب یاد نہیں کرتا۔\n\nبن تیرے پہلے پل-پل تھا مرتا،\nاب نہ دیکھوں تمہیں تو میں خدا سے فریاد نہیں کرتا۔\nتم بھی بھول جاؤ مجھے،\nمیں تمہیں اب یاد نہیں کرتا۔\n\nیہ دل میرا مجھ سے روتے ہوئے باتیں کیا کرتا،\nجب سے بھول گیا ہوں تمہیں میں،\nاس کے بعد نہیں کرتا۔\nتم بھی بھول جاؤ مجھے،\nمیں تمہیں اب یاد نہیں کرتا۔",
-  "poem_english": "Tum jo na jaagti ho, na soti ho,\nYun jo raato ko roti ho,\nYun aansuon ko koi barbaad nahi karta.\nTum bhi bhool jao mujhe,\nMain tumhein ab yaad nahi karta.\n\nTum in yaadon se khud ko kahin door le jao,\nJaise pinjre se panchi ko koi azaad nahi karta?\nTum bhi bhool jao mujhe,\nMain tumhein ab yaad nahi karta.\n\nBin tere pehle pal-pal tha marta,\nAb na dekhun tumhein to main Khuda se fariyaad nahi karta.\nTum bhi bhool jao mujhe,\nMain tumhein ab yaad nahi karta.\n\nYe dil mera mujhse rote hue baatein kiya karta,\nJab se bhool gaya hoon tumhein main,\nUske baad nahi karta.\nTum bhi bhool jao mujhe,\nMain tumhein ab yaad nahi karta.",
-  "author": "Yankosh Badal",
-  "date": "26FEB2026"
-},
-    {
-  "id": 12,
-  "poem_hindi": "तुम दिल-ए-नाशाद यूँ ही छुपाया करो,\nमातम की दुनिया से कुछ हँसी ढूँढ लाया करो।\n\nकिसको परवाह है तुम्हारे ग़मों की, यारों,\nहज़ार ज़ख्म हों लबों पे,\nतुम खुल कर मुस्कुराया करो।",
-  "poem_urdu": "تم دلِ ناآشاد یوں ہی چھپایا کرو،\nماتم کی دنیا سے کچھ ہنسی ڈھونڈ لایا کرو۔\n\nکس کو پرواہ ہے تمہارے غموں کی، یاروں،\nہزار زخم ہوں لبوں پہ،\nتم کھل کر مسکرایا کرو۔",
-  "poem_english": "Tum dil-e-naashad yun hi chhupaya karo,\nMaatam ki duniya se kuch hansi dhoond laya karo.\n\nKisko parwaah hai tumhare ghamon ki, yaaron,\nHazaar zakhm hon labon pe,\nTum khul kar muskuraya karo.",
-  "author": "Yankosh Badal",
-  "date": "26FEB2026"
-},
-    {
-  "id": 13,
-  "poem_hindi": "बड़े मुद्दतों बाद सोया हूँ मैं चैन से,\nलोगों से कह दो मेरे क़ब्र पे तमाशा न करें।",
-  "poem_urdu": "بڑے مُدّتوں بعد سویا ہوں میں چین سے،\nلوگوں سے کہ دو میرے قبر پہ تماشہ نہ کریں۔",
-  "poem_english": "Bade muddaton baad soya hoon main chain se,\nLogon se keh do mere qabr pe tamasha na karein.",
-  "author": "Yankosh Badal",
-  "date": "26FEB2026"
-},
-    {
-  "id": 14,
-  "poem_hindi": "ज़रा रुको, मैं नशे में हूँ,\nमुझे देर लगेगी आने में।\n\nहो सके तो तुम आ जाओ,\nयहाँ शराब बची है मैखाने में।",
-  "poem_urdu": "ذرا رکو، میں نشے میں ہوں،\nمجھے دیر لگے گی آنے میں۔\n\nہو سکے تو تم آ جاؤ،\nیہاں شراب بچی ہے مے خانے میں۔",
-  "poem_english": "Zara ruko, main nashe mein hoon,\nMujhe der lagegi aane mein.\n\nHo sake to tum aa jao,\nYahan sharaab bachi hai maikhane mein.",
-  "author": "Yankosh Badal",
-  "date": "26FEB2026"
-},
-    {
-  "id": 15,
-  "poem_hindi": "गुज़रेगी कल तेरे शहर से वो,\nराहों में फूल बेहिसाब रखना।\n\nबड़े नाज़ुक हैं उनके पैर,\nकाँटे हटा के गुलाब रखना।",
-  "poem_urdu": "گزرے گی کل تیرے شہر سے وہ،\nراہوں میں پھول بے حساب رکھنا۔\n\nبڑے نازک ہیں ان کے پیر،\nکانٹے ہٹا کے گلاب رکھنا۔",
-  "poem_english": "Guzregi kal tere shahar se wo,\nRahon mein phool behisaab rakhna.\n\nBade naazuk hain unke pair,\nKante hata ke gulab rakhna.",
-  "author": "Yankosh Badal",
-  "date": "26FEB2026"
-},
-    {
-  "id": 16,
-  "poem_hindi": "मरे हुए लोग, ज़िंदा हैं ये लाशें,\nमिले हुए जीवन से शर्मिंदा हैं ये लाशें।\n\nहर एक में मिल जाएँगी लाशें ही लाशें,\nदबे-कुचले सपनों की मरी हुई लाश,\nअधूरे ख़्वाबों की सड़ी हुई लाश।\n\nजीवन की धूप में जलती है ये लाश,\nलोगों की भीड़ में चलती है ये लाश।\nकोई तो पूछो इन्हें, है किसकी तलाश?\n\nथकी हुई है, न सोती है ये लाश,\nसूखे हुए आँसू हैं, न रोती है ये लाश।\nये दुनिया है लाशों की,\nन होती ये... काश।",
-  "poem_urdu": "مرے ہوئے لوگ، زندہ ہیں یہ لاشیں،\nملے ہوئے زندگی سے شرمندہ ہیں یہ لاشیں۔\n\nہر ایک میں مل جائیں گی لاشیں ہی لاشیں،\nدبے-کچلے سپنوں کی مری ہوئی لاش،\nادھورے خوابوں کی سڑی ہوئی لاش۔\n\nزندگی کی دھوپ میں جلتی ہے یہ لاش،\nلوگوں کی بھیڑ میں چلتی ہے یہ لاش۔\nکوئی تو پوچھو انہیں، ہے کس کی تلاش؟\n\nتھکی ہوئی ہے، نہ سوتی ہے یہ لاش،\nسوکھے ہوئے آنسو ہیں، نہ روتی ہے یہ لاش۔\nیہ دنیا ہے لاشوں کی،\nن ہوتی یہ... کاش۔",
-  "poem_english": "Mare hue log, zinda hain ye laashen,\nMile hue jeevan se sharminda hain ye laashen.\n\nHar ek mein mil jaayengi laashen hi laashen,\nDabe-kuchle sapno ki mari hui laash,\nAdhoore khwabon ki sadi hui laash.\n\nJeevan ki dhoop mein jalti hai ye laash,\nLogon ki bheed mein chalti hai ye laash.\nKoi to poocho inhein, hai kiski talaash?\n\nThaki hui hai, na soti hai ye laash,\nSookhe hue aansoo hain, na roti hai ye laash.\nYe duniya hai laashon ki,\nNa hoti ye... kaash.",
-  "author": "Yankosh Badal",
-  "date": "26FEB2026"
-},
-    {
-  "id": 17,
-  "poem_hindi": "फ़िक्र थी बादल को चाँद की, न सोया रात भर,\nपूरे शहर में बरसात हुई, यूँ रोया रात भर।",
-  "poem_urdu": "فکر تھی بادل کو چاند کی، نہ سویا رات بھر،\nپورے شہر میں برسات ہوئی، یوں رویا رات بھر۔",
-  "poem_english": "Fikr thi baadal ko chaand ki, na soya raat bhar,\nPoore shahar mein barsaat hui, yun roya raat bhar.",
-  "author": "Yankosh Badal",
-  "date": "26FEB2026"
-}
-  ],
-  "about":"Welcome to 'Khayaal'. My name is Yankosh Kumar Badal, born on 28th June 2002.\nI write Urdu and Hindi shayari. These writings are a reflection of my thoughts, feelings, and experiences.\n\nI completed my Software Engineering from Central University of Chhattisgarh. While my academic background lies in engineering, my heart has always belonged to poetry.\n\nAlong with writing, I also enjoy reciting poetry.",
-  "qoute":"“If I write what you may feel but cannot say, it does not make me a poet. It makes me a bridge… and I am humbled and I am grateful to assist your heart in speaking.”\n- Nayyirah Waheed, (Salt)",
-  "blogs": [
-    {
-        "id":1,
-        "title":"Tiltle",
-        "date":"26FEB2026",
-        "body":"ABC",
-        "author":"Yankosh Badal"
+      "id": 6,
+      "poem_hindi": "ना मिली वो, ना मिला उसका कोई नामो-निशाँ,\nजब उसके शहर में आज आके देखा।\n\nमैंने सिखाया था उसको लोगों को छोड़ देने का हुनर,\nकमबख़्त उसने ये हुनर मुझपे आज़मा के देखा।",
+      "poem_urdu": "نہ ملی وہ، نہ ملا اس کا کوئی نام و نشان،\nجب اس کے شہر میں آج آکے دیکھا۔\n\nمیں نے سکھایا تھا اس کو لوگوں کو چھوڑ دینے کا ہنر،\nکم بخت اُس نے یہ ہنر مجھ پہ آزما کے دیکھا۔",
+      "poem_english": "Na mili wo, na mila uska koi namo-nishan,\nJab uske shahar mein aaj aake dekha.\n\nMaine sikhaya tha usko logon ko chhod dene ka hunar,\nKambakht usne ye hunar mujhpe aazma ke dekha.",
+      "author": "Yankosh Badal",
+      "date": "26FEB2026"
     },
     {
-        "id":2,
-        "title":"Tiltle",
-        "date":"26FEB2026",
-        "body":"ABC",
-        "author":"Yankosh Badal"
+      "id": 7,
+      "poem_hindi": "गिरे थे जो मेरे आँसू तेरे दामन में,\nउसे मैं अपनी आँखों में भर के लाया हूँ।\nफिर लौट आया हूँ, तेरे घर चला आया हूँ।\n\nमिली थीं कलियाँ मेरे रास्ते में,\n\"ना आएगी बहार इस बार\" बता आया हूँ।\n\nबनाए थे जो फूल तूने पेंसिल से मेरी डायरी में,\nउस फूल को मैं आज मिटा आया हूँ।\n\nफिर लौट आया हूँ, तेरे घर चला आया हूँ।\n\nबहुत अँधेरा था मेरे मोहल्ले में,\nसो अपना घर जला आया हूँ।\n\nमत भेज वापस मुझे मेरे शहर में,\nमैं वहाँ अब बस एक मुसाफ़िर पराया हूँ।",
+      "poem_urdu": "گرے تھے جو میرے آنسو تیرے دامن میں،\nاسے میں اپنی آنکھوں میں بھر کے لایا ہوں۔\nپھر لوٹ آیا ہوں، تیرے گھر چلا آیا ہوں۔\n\nملی تھیں کلیاں میرے راستے میں،\n\"نہ آئے گی بہار اس بار\" بتا آیا ہوں۔\n\nبنائے تھے جو پھول تُو نے پنسل سے میری ڈائری میں،\nاس پھول کو میں آج مٹا آیا ہوں۔\n\nپھر لوٹ آیا ہوں، تیرے گھر چلا آیا ہوں۔\n\nبہت اندھیرا تھا میرے محلے میں،\nسو اپنا گھر جلا آیا ہوں۔\n\nمت بھیج واپس مجھے میرے شہر میں،\nمیں وہاں اب بس ایک مسافر پرایا ہوں۔",
+      "poem_english": "Gire the jo mere aansu tere daaman mein,\nUse main apni aankhon mein bhar ke laya hoon.\nPhir laut aaya hoon, tere ghar chala aaya hoon.\n\nMili thin kaliyan mere raste mein,\n\"Na aayegi bahar is baar\" bata aaya hoon.\n\nBanaye the jo phool tune pencil se meri diary mein,\nUs phool ko main aaj mita aaya hoon.\n\nPhir laut aaya hoon, tere ghar chala aaya hoon.\n\nBahut andhera tha mere mohalle mein,\nSo apna ghar jala aaya hoon.\n\nMat bhej wapas mujhe mere shahar mein,\nMain wahan ab bas ek musafir paraya hoon.",
+      "author": "Yankosh Badal",
+      "date": "26FEB2026"
+    }
+  ],
+  "about": "Welcome to 'Khayaal'. My name is Yankosh Kumar Badal, born on 28th June 2002.\nI write Urdu and Hindi shayari. These writings are a reflection of my thoughts, feelings, and experiences.\n\nI completed my Software Engineering from Central University of Chhattisgarh. While my academic background lies in engineering, my heart has always belonged to poetry.\n\nAlong with writing, I also enjoy reciting poetry.",
+  "qoute": "“If I write what you may feel but cannot say, it does not make me a poet. It makes me a bridge… and I am humbled and I am grateful to assist your heart in speaking.”\n- Nayyirah Waheed, (Salt)",
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Title",
+      "date": "26FEB2026",
+      "body": "ABC",
+      "author": "Yankosh Badal"
+    },
+    {
+      "id": 2,
+      "title": "Title",
+      "date": "26FEB2026",
+      "body": "ABC",
+      "author": "Yankosh Badal"
     }
   ]
 }
-
-
-
-
-
-
-
